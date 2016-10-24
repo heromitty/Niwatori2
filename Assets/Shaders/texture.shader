@@ -1,4 +1,4 @@
-﻿Shader "Niwatori/others"
+﻿Shader "Niwatori/texture"
 {
 	Properties
 	{
@@ -6,6 +6,9 @@
 	}
 	SubShader
 	{
+		//タグ	いつどのようにしてレンダリングエンジンでレンダリングするかを示します。
+		//	Queueタグ：レンダリング順指定
+		//		・Transparent	GeometryとAlphaTestの後に後ろにあるものから先に順番でレンダリングされます。
 		Tags { "Queue"="Transparent" }
 		LOD 100
 		Cull Off 

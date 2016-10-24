@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: 4781080a8e2182c43b15e3e5163366b9
+timeCreated: 1477108180
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: flower
+    100002: flower.001
+    100004: flower.002
+    100006: flower.003
+    100008: flower.004
+    100010: flower.005
+    100012: flower.006
+    100014: //RootNode
+    100016: leaf.001
+    100018: stalk
+    100020: stalk.001
+    100022: stalk.002
+    100024: stalk.003
+    100026: stalk.004
+    100028: stalk.005
+    100030: stalk.006
+    400000: flower
+    400002: flower.001
+    400004: flower.002
+    400006: flower.003
+    400008: flower.004
+    400010: flower.005
+    400012: flower.006
+    400014: //RootNode
+    400016: leaf.001
+    400018: stalk
+    400020: stalk.001
+    400022: stalk.002
+    400024: stalk.003
+    400026: stalk.004
+    400028: stalk.005
+    400030: stalk.006
+    2300000: flower
+    2300002: flower.001
+    2300004: flower.002
+    2300006: flower.003
+    2300008: flower.004
+    2300010: flower.005
+    2300012: flower.006
+    2300014: leaf.001
+    2300016: stalk
+    2300018: stalk.001
+    2300020: stalk.002
+    2300022: stalk.003
+    2300024: stalk.004
+    2300026: stalk.005
+    2300028: stalk.006
+    3300000: flower
+    3300002: flower.001
+    3300004: flower.002
+    3300006: flower.003
+    3300008: flower.004
+    3300010: flower.005
+    3300012: flower.006
+    3300014: leaf.001
+    3300016: stalk
+    3300018: stalk.001
+    3300020: stalk.002
+    3300022: stalk.003
+    3300024: stalk.004
+    3300026: stalk.005
+    3300028: stalk.006
+    4300000: leaf.001
+    4300002: stalk.002
+    4300004: stalk.001
+    4300006: flower
+    4300008: flower.001
+    4300010: flower.002
+    4300012: flower.003
+    4300014: flower.004
+    4300016: flower.005
+    4300018: flower.006
+    4300020: stalk.003
+    4300022: stalk.004
+    4300024: stalk
+    4300026: stalk.005
+    4300028: stalk.006
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
